@@ -1,1 +1,1 @@
-# Word-guess-game
+# This is actually the psychic game. I misnamed the repo.
